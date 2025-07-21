@@ -4,6 +4,7 @@
   <group>
     <push-ros-namespace namespace="imu"/>
 
+    <!-- Update with specific IMU details-->
     <!-- <group>
       <push-ros-namespace namespace="tamagawa"/>
       <node pkg="tamagawa_imu_driver" name="tag_serial_driver" exec="tag_serial_driver" if="$(var launch_driver)">
