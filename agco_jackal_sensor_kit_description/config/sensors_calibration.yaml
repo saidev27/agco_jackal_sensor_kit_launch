@@ -1,8 +1,8 @@
 base_link:
   sensor_kit_base_link:
-    x: 0.9
+    x: 0.131  # Forward of rear axle by 0.131m
     y: 0.0
-    z: 0.0
+    z: 0.0345
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
